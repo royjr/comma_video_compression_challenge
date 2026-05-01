@@ -144,6 +144,36 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
    </td>
    <td>
+    0.32
+   </td>
+   <td>
+    qpose14
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/63" target="_blank">
+     #63
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    0.33
+   </td>
+   <td>
+    unified_brotli
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/64" target="_blank">
+     #64
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
     0.33
    </td>
    <td>
@@ -152,6 +182,21 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
     <a href="https://github.com/commaai/comma_video_compression_challenge/pull/55" target="_blank">
      #55
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    0.37
+   </td>
+   <td>
+    fp4_mask_gen
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/62" target="_blank">
+     #62
     </a>
    </td>
   </tr>
@@ -182,6 +227,21 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
     <a href="https://github.com/commaai/comma_video_compression_challenge/pull/53" target="_blank">
      #53
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    1.24
+   </td>
+   <td>
+    codex_metric_yshift_av1
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/60" target="_blank">
+     #60
     </a>
    </td>
   </tr>
@@ -452,6 +512,21 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
     <a href="https://github.com/commaai/comma_video_compression_challenge/pull/22" target="_blank">
      #22
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    3.83
+   </td>
+   <td>
+    delta_codec
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/61" target="_blank">
+     #61
     </a>
    </td>
   </tr>
