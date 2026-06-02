@@ -144,6 +144,21 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
    </td>
    <td>
+    0.192
+   </td>
+   <td>
+    hnerv_fec6_fixed_huffman_k16
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/110" target="_blank">
+     #110
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
     0.193
    </td>
    <td>
