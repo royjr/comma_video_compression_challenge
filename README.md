@@ -144,6 +144,51 @@ The official evaluation has a time limit of 30 minutes. If your inflation script
    <td>
    </td>
    <td>
+    0.187
+   </td>
+   <td>
+    rhnerv_latent_polish
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/128" target="_blank">
+     #128
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    0.191
+   </td>
+   <td>
+    qlp_exactgrid
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/127" target="_blank">
+     #127
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+    0.191
+   </td>
+   <td>
+    hnerv_qlp
+   </td>
+   <td>
+    <a href="https://github.com/commaai/comma_video_compression_challenge/pull/125" target="_blank">
+     #125
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
     0.191
    </td>
    <td>
